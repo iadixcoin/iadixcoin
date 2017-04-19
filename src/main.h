@@ -61,7 +61,7 @@ inline bool IsProtocolV3(int64_t nTime) { return true; }
 inline int64_t FutureDriftV2(int64_t nTime) { return nTime + 15; }
 inline int64_t FutureDrift(int64_t nTime, int nHeight) { return FutureDriftV2(nTime) }
 
-inline unsigned int GetTargetSpacing(int nHeight) { return 64; }
+inline unsigned int GetTargetSpacing(int nHeight) { return 128; }
 
 extern CScript COINBASE_FLAGS;
 extern CCriticalSection cs_main;
