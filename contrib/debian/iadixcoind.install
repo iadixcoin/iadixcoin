@@ -1,0 +1,2 @@
+debian/bin/iadixcoind usr/bin
+src/iadixcoind usr/lib/iadixcoin
