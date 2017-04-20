@@ -37,5 +37,5 @@
 [2a01:4f8:161:4041::2]
 
 # Onion nodes
-54ktu5wby3agev2d.onion:16714
-pqlf5ov3xzkqj3lt.onion:16714
+54ktu5wby3agev2d.onion:64198
+pqlf5ov3xzkqj3lt.onion:64198

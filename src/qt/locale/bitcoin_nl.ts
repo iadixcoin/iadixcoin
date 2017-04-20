@@ -2654,8 +2654,8 @@ for example: alertnotify=echo %%s | mail -s &quot;iadixcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>Listen for connections on &lt;port&gt; (default: 16714 or testnet: 25714)</source>
-        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 16714 of testnet: 25714)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 64198 or testnet: 25714)</source>
+        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 64198 of testnet: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2704,8 +2704,8 @@ for example: alertnotify=echo %%s | mail -s &quot;iadixcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="-126"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 16715 or testnet: 25715)</source>
-        <translation>Wacht op JSON-RPC-connecties op &lt;poort&gt; (standaard: 16715 of testnet: 25715) </translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 64199 or testnet: 25715)</source>
+        <translation>Wacht op JSON-RPC-connecties op &lt;poort&gt; (standaard: 64199 of testnet: 25715) </translation>
     </message>
     <message>
         <location line="-16"/>

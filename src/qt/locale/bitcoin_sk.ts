@@ -2668,8 +2668,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;iadixcoin upozornenie&quot; adm
     </message>
     <message>
         <location line="+5"/>
-        <source>Listen for connections on &lt;port&gt; (default: 16714 or testnet: 25714)</source>
-        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 16714 alebo testovacia sieť: 25714)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 64198 or testnet: 25714)</source>
+        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 64198 alebo testovacia sieť: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2718,8 +2718,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;iadixcoin upozornenie&quot; adm
     </message>
     <message>
         <location line="-126"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 16715 or testnet: 25715)</source>
-        <translation>Počúvajte pre JSON-RPC spojenie na &lt;port&gt; (predvolené: 16715 alebo testovacia sieť: 25715)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 64199 or testnet: 25715)</source>
+        <translation>Počúvajte pre JSON-RPC spojenie na &lt;port&gt; (predvolené: 64199 alebo testovacia sieť: 25715)</translation>
     </message>
     <message>
         <location line="-16"/>
