@@ -24,3 +24,10 @@ qrc_*.cpp
 build
 
 !src/leveldb/Makefile
+
+iadixcoin-qt_plugin_import.cpp
+Makefile.Debug
+Makefile.Release
+object_script.iadixcoin-qt.Debug
+object_script.iadixcoin-qt.Release
+release/iadixcoin-qt.exe
