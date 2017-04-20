@@ -31,3 +31,16 @@ Makefile.Release
 object_script.iadixcoin-qt.Debug
 object_script.iadixcoin-qt.Release
 release/iadixcoin-qt.exe
+ui_aboutdialog.h
+ui_addressbookpage.h
+ui_editaddressdialog.h
+ui_coincontroldialog.h
+ui_askpassphrasedialog.h
+ui_optionsdialog.h
+ui_overviewpage.h
+ui_rpcconsole.h
+ui_sendcoinsentry.h
+ui_qrcodedialog.h
+ui_sendcoinsdialog.h
+ui_signverifymessagedialog.h
+ui_transactiondescdialog.h
