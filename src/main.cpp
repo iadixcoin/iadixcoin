@@ -973,7 +973,7 @@ int64_t GetProofOfWorkReward(int64_t nFees)
 {
     if (pindexBest->nHeight+1 == 1)
 	{
-		return 35000000 * COIN
+		return 35000000 * COIN;
 	}
 
     return 0;
